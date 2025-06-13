@@ -1,6 +1,7 @@
 Schedule Manager (Java + MySQL)
 
 **개요**
+
 Java Swing과 MySQL을 활용한 GUI 기반 일정 관리 프로그램
 데이터베이스에 저장된 항목(Subject, Time, Whattodo 등)을 드롭다운으로 불러와서
 사용자가 조합한 일정을 실시간으로 화면에 출력하고, 간편하게 스케줄을 관리
@@ -34,4 +35,5 @@ GUI 구성
 - JDBC
 
 **데이터베이스 설정**
+
 DB 이름: `timeschedulers`
