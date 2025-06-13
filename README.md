@@ -1,4 +1,5 @@
-Schedule Manager (Java + MySQL)
+**Schedule Manager (Java + MySQL)**
+
 
 **개요**
 
